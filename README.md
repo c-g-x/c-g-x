@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Guixin Chan
 
-**c-g-x/c-g-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **c-g-x/c-g-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c-g-x&label=Profile%20views&color=0e75b6&style=flat" alt="c-g-x" /> </p>
 
@@ -30,5 +30,11 @@ Here are some ideas to get you started:
 <!-- <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  -->
 <!-- <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>  -->
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  ...
+  &nbsp;...
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c-g-x&show_icons=true&locale=en&layout=compact" alt="c-g-x" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c-g-x&show_icons=true&locale=en" alt="c-g-x" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c-g-x&" alt="c-g-x" /></p>
